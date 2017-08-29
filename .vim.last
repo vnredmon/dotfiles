@@ -1,0 +1,3 @@
+" Auto open NerdTree
+    
+autocmd vimenter * NERDTree

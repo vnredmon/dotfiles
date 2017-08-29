@@ -1,0 +1,9 @@
+" added nerdtree
+Plugin 'scrooloose/nerdtree'
+
+" install markdown
+Plugin 'godlygeek/tabular'
+Plugin 'plasticboy/vim-markdown'
+
+" install MRU
+Plugin 'mru.vim'

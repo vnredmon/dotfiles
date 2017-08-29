@@ -1,0 +1,11 @@
+
+" Auto open nerdtree
+autocmd vimenter * NERDTree
+
+" change directional keys
+"map i <Up>
+"map j <Left>
+"map k <Down>
+"noremap h i
+
+let g:vim_markdown_folding_style_pythonic = 1
