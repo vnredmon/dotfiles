@@ -7,3 +7,6 @@ Plugin 'plasticboy/vim-markdown'
 
 " install MRU
 Plugin 'mru.vim'
+
+" install vimwiki
+Plugin 'vimwiki/vimwiki'
