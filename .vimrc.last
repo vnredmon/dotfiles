@@ -8,4 +8,11 @@ autocmd vimenter * NERDTree
 "map k <Down>
 "noremap h i
 
+let python_highlight_all=1
+syntax on
+
 let g:vim_markdown_folding_style_pythonic = 1
+
+" copy osx clipboard
+set clipboard=unnamed
+

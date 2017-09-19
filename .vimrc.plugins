@@ -1,5 +1,6 @@
 " added nerdtree
 Plugin 'scrooloose/nerdtree'
+Plugin 'jistr/vim-nerdtree-tabs'
 
 " install markdown
 Plugin 'godlygeek/tabular'
@@ -10,3 +11,29 @@ Plugin 'mru.vim'
 
 " install vimwiki
 Plugin 'vimwiki/vimwiki'
+
+"install autocomplete
+Bundle 'Valloric/YouCompleteMe'
+
+" python pep8 checkign
+Plugin 'nvie/vim-flake8'
+
+" colorize things
+"Plugin 'jnurmine/Zenburn'
+Plugin 'altercation/vim-colors-solarized'
+
+"if has('gui_running')
+"  set background=dark
+"  colorscheme solarized
+"else
+"  colorscheme zenburn
+"endif
+"call togglebg#map("<F5>")
+
+" file searching
+"Plugin 'kien/ctrlp.vim'
+
+" powerline status bar
+Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
+
+
